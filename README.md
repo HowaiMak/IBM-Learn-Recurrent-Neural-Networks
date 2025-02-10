@@ -11,27 +11,17 @@ This course explores **Recurrent Neural Networks (RNNs)** and their applications
 Below is a list of the lessons I completed, along with the activities and work I accomplished for each:
 
 1. **Types of Sequential Data**
-   - **Activity:** Completed 1 activity.
    - **Notes:** Explored different types of sequential data and their use cases.
 
 2. **Word Embeddings**
-   - **Activity:** Completed 1 activity.
    - **Notes:** Learned about word vector representations and their role in NLP tasks.
 
 3. **RNNs (Recurrent Neural Networks)**
-   - **Activity:** Completed 1 activity.
    - **Notes:** Studied the architecture and functionality of RNNs, including their strengths and limitations.
 
 4. **LSTMs (Long Short-Term Memory Networks)**
-   - **Activity:** Completed 1 activity.
    - **Notes:** Investigated LSTMs as an advanced RNN variant for handling long-term dependencies.
 
-
-## Purpose of This Repository
-
-This repository is primarily for personal reference and to document my learning journey through the course. It may also serve as a resource for others who are interested in seeing practical examples of the course material.
-
-## License
 
 ## Purpose of This Repository
 
